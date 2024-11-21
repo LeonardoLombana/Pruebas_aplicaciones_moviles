@@ -37,15 +37,6 @@ Ejecutado segun la parametrización de los requerimientos de la app, de acuerdo 
 3. Visualizar el archivo correspondiente a informe de errores.
 
 > [!IMPORTANT]
-> Se logra concluir:
-
-En términos generales visualmente es agradable a la vista, sus opciones de reservar un automóvil son sencillas de identificar y permite guiarse fácilmente desde el panel de direcciones hasta llegar al momento de hacer la reserva.
-Los gráficos e iconos son fáciles de entender a pesar de que no son muy detallados permiten darse una idea de que es lo que se está buscando o en qué componente se está ubicado, esto permite que la navegación en la aplicación sea sencilla y práctica.
-Durante las pruebas se logró auditar aunque no todo pero si una parte importante del diseño y parte del funcionamiento lógico de la aplicación en este paso introductorio en el entorno de la aplicación se debe resaltar que aún se encuentran varios fallos en sus funcionamientos como por ejemplo las validaciones en los campos de registro de información como mètodos de pago puesto que en el momento de las pruebas no se ejecutaron del todo satisfactoriamente.
-Estos fallos deben ser atendidos por el área correspondiente siguiendo la casuística de las pruebas elaboradas para lograr optimizar el sistema y poder entregar una aplicación que tenga niveles mínimos de corrección de fallos.
-En este momento aunque la aplicación tiene altos niveles de desarrollo no sería aconsejable poner en producción hasta que por lo menos se garantice que se han corregido de preferencia en su totalidad los bugs o fallos, ya que de desplegarse como está creada daría una mala experiencia en el usuario la cual no favorece a la aplicación evitando lograr una buena calificación y generando algunas malas reseñas las cuales no favorecen a que esta sea una herramienta que favorezca el uso diario de los futuros usuarios.
-
-> [!IMPORTANT]
 > Estado del proyecto
 
 ## Estado:
